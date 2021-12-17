@@ -1,0 +1,9 @@
+.input-box{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+.input-box button{
+    margin-left: 2%;
+}

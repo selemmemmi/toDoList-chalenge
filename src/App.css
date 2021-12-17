@@ -1,0 +1,15 @@
+.input-box{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+.input-box button{
+    margin-left: 2%;
+}
+.add-box{
+    display: flex;
+    justify-content: center;
+    max-width: 60%;
+    margin-left: 20%;
+}
